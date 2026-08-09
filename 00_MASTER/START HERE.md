@@ -1,4 +1,4 @@
-﻿# Children Rhymes AI Studio
+# Children Rhymes AI Studio
 
 # START HERE
 

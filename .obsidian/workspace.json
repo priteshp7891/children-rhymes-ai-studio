@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Production Constitution/Master Universe Bible & Production Constitution.MD.md",
+                "file": "01_UNIVERSE/Characters/Maya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Universe Bible & Production Constitution.MD"
+              "title": "Maya"
             }
           },
           {
@@ -55,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -199,6 +201,12 @@
   },
   "active": "7134ad295a7c96bb",
   "lastOpenFiles": [
+    "00_MASTER/START HERE.md",
+    "01_UNIVERSE/Characters/Leo.md",
+    "01_UNIVERSE/Characters/Benny.md",
+    "01_UNIVERSE/Characters/Sunny.md",
+    "01_UNIVERSE/Characters/Nora.md",
+    "01_UNIVERSE/Characters/Maya.md",
     "CHARACTER UNIVERSE/CHARACTER UNIVERSE.MD.md",
     "Production Constitution/Master Universe Bible & Production Constitution.MD.md",
     "CHARACTER UNIVERSE",

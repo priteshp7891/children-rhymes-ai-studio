@@ -2,43 +2,160 @@
 
 ## Purpose
 
-Canonical prompt for generating Leo consistently across images and videos.
+Canonical generation specification for Leo across image and video generation.
 
-## Character
+## Character Identity
 
-Leo is a cheerful 4-5-year-old preschool boy with a rounded, friendly 3D animated design. He has warm medium-brown skin, large warm brown expressive eyes, and the exact Concept 2 hairstyle: soft, slightly wavy dark-brown hair with the distinctive Concept 2 front tuft. Preserve this hairstyle exactly; do not redesign, shorten, lengthen, spike, curl, or replace it.
+Leo is a cheerful 4-5-year-old preschool boy with a friendly, rounded 3D animated design.
 
-Leo wears a sunny yellow T-shirt with a simple teal five-point star emblem centered on the chest, teal-blue shorts, and white sneakers with teal accents.
+He has:
+- warm medium-brown skin
+- large warm-brown expressive eyes
+- dark-brown wavy hair
+- the exact Concept 2 hairstyle
+- a distinctive Concept 2 front hair tuft
 
-Leo wears ONE blue-green wristband on his LEFT WRIST ONLY.
+The Concept 2 hairstyle is LOCKED.
+
+Do not redesign, replace, spike, straighten, shorten, lengthen, curl, or otherwise alter the hairstyle.
+
+## Clothing
+
+Leo wears:
+- sunny yellow T-shirt
+- teal five-point star emblem centered on the front of the shirt
+- teal-blue shorts
+- white sneakers with teal accents
+- one blue-green wristband
+
+## Wristband Rule
+
+Leo wears ONE wristband.
+
+The wristband is ONLY on his LEFT WRIST.
+
+Never place a wristband on the right wrist.
+
+Never create two wristbands.
+
+Never remove the wristband unless an episode explicitly requires it.
 
 ## Personality
 
-Curious, energetic, kind, adventurous, playful, expressive and eager to discover new things.
+Leo is:
+- curious
+- energetic
+- adventurous
+- kind
+- playful
+- expressive
+- eager to discover new things
 
-His body language should communicate curiosity and enthusiasm naturally.
+His body language should naturally communicate curiosity and enthusiasm.
 
 ## Visual Style
 
-Premium preschool 3D animation, rounded child-friendly proportions, soft appealing facial features, clean shapes, expressive eyes, polished materials, soft studio-quality lighting, cinematic but cheerful composition.
+Premium preschool 3D animation.
 
-## Absolute Consistency Rules
+Use:
+- rounded preschool proportions
+- friendly facial features
+- expressive eyes
+- clean shapes
+- polished materials
+- soft lighting
+- cheerful compositions
+- high-quality cinematic rendering
+- child-friendly visual language
 
-- Preserve Concept 2 hairstyle exactly.
-- Do not change the hair silhouette.
-- Do not add or remove hair accessories.
-- Wristband must appear ONLY on Leo's left wrist.
-- Never place a wristband on the right wrist.
-- Preserve yellow shirt.
-- Preserve teal shorts.
-- Preserve white-and-teal sneakers.
-- Preserve teal star emblem.
-- Preserve facial proportions.
-- Preserve age appearance of 4-5 years.
-- Do not make Leo look older.
-- Do not make Leo look like a different child.
-- Do not introduce random clothing changes.
+Avoid:
+- photorealism
+- uncanny facial proportions
+- teenage appearance
+- adult appearance
+- exaggerated baby proportions
+- overly complex clothing
+- visual clutter
+
+## Absolute Character Consistency Rules
+
+1. Preserve the exact Concept 2 hairstyle.
+2. Preserve the Concept 2 hair silhouette.
+3. Do not redesign Leo's hair between scenes.
+4. Preserve Leo's facial proportions.
+5. Preserve his warm medium-brown skin tone.
+6. Preserve his warm-brown eye color.
+7. Preserve the yellow shirt.
+8. Preserve the teal star emblem.
+9. Preserve the teal-blue shorts.
+10. Preserve the white-and-teal sneakers.
+11. The wristband must appear ONLY on the LEFT WRIST.
+12. Never place the wristband on the right wrist.
+13. Never generate two wristbands.
+14. Preserve Leo's 4-5-year-old appearance.
+15. Do not make Leo look older.
+16. Do not change his body proportions.
+17. Do not introduce random accessories.
+18. Do not change his clothing colors.
+19. Do not change the star emblem.
+20. Leo must remain recognizable as the same character from every camera angle.
 
 ## Reference Priority
 
-Use LEO-REF-001 as the primary visual reference whenever the generation system supports reference images.
+When the generation system supports reference images, use:
+
+LEO-REF-001
+
+as the primary character reference.
+
+Generation hierarchy:
+
+1. Canonical Leo reference image
+2. Locked Visual DNA
+3. Episode-specific action
+4. Episode-specific environment
+5. Camera movement
+6. Lighting variation
+
+The episode may change the action and environment, but it must not silently change Leo's identity.
+
+## Scene Integration
+
+Leo may:
+- walk
+- run
+- jump
+- dance
+- clap
+- point
+- wave
+- sit
+- sing
+- think
+- hold objects
+- interact with friends
+- interact with animals
+- explore environments
+
+Actions must remain physically believable for a preschool child.
+
+## Quality-Control Failure Conditions
+
+Reject the generation if:
+- hairstyle changes
+- face changes substantially
+- Leo appears older
+- wristband appears on the right wrist
+- two wristbands appear
+- clothing colors change without approval
+- star emblem disappears or changes
+- body proportions change substantially
+- Leo becomes visually inconsistent with LEO-REF-001
+
+## Reference
+
+Primary reference:
+
+LEO-REF-001
+Design base: Concept 2
+Status: Candidate Canonical

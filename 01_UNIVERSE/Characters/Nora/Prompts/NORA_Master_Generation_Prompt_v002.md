@@ -159,16 +159,17 @@ Do not permanently lock individual art-supply contents unless explicitly approve
 10. Preserve the teal leggings.
 11. Preserve the tan crossbody art bag.
 12. Preserve the orange-and-cream sneakers.
-13. Do not add an emblem to Nora's clothing.
-14. Do not add a star, lightbulb, compass, badge, or logo.
-15. Do not introduce random accessories.
-16. Do not substantially alter Nora's body proportions.
-17. Do not age Nora into an adult.
-18. Do not make Nora resemble Maya.
-19. Preserve Nora's older-friend identity.
-20. Nora must remain visually compatible with Leo, Maya, Benny, and the Children Rhymes AI universe.
-21. Camera angle, pose, expression, environment, lighting, and scene-specific action may change.
-22. Nora's core visual identity may not change without explicit approval.
+13. Preserve Nora's established anatomy.
+14. Do not add an emblem to Nora's clothing.
+15. Do not add a star, lightbulb, compass, badge, or logo.
+16. Do not introduce random accessories.
+17. Do not substantially alter Nora's body proportions.
+18. Do not age Nora into an adult.
+19. Do not make Nora resemble Maya.
+20. Preserve Nora's older-friend identity.
+21. Nora must remain visually compatible with Leo, Maya, Benny, and the Children Rhymes AI universe.
+22. Camera angle, pose, expression, environment, lighting, and scene-specific action may change.
+23. Nora's core visual identity may not change without explicit approval.
 
 ## Camera Reference
 

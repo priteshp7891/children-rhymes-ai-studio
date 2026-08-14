@@ -99,18 +99,19 @@ His behavior should remain appropriate for a young puppy and compatible with the
 6. Preserve warm-brown eye color and eye shape.
 7. Preserve floppy ear shape and proportions.
 8. Preserve Benny's puppy proportions.
-9. Preserve the short fluffy tail and overall silhouette.
-10. Preserve the deep-blue collar.
-11. Preserve exactly one yellow five-point star collar tag.
-12. Keep the star tag small and proportionate to the collar.
-13. Never duplicate the star tag.
-14. Do not introduce random accessories.
-15. Do not introduce clothing unless explicitly approved.
-16. Do not age Benny into an adult dog.
-17. Do not redesign Benny as another dog breed.
-18. Do not substantially alter Benny's body proportions.
-19. Do not silently modify any locked visual feature.
-20. Benny must remain visually compatible with Leo and Maya.
+9. Preserve Benny's established anatomy.
+10. Preserve the short fluffy tail and overall silhouette.
+11. Preserve the deep-blue collar.
+12. Preserve exactly one yellow five-point star collar tag.
+13. Keep the star tag small and proportionate to the collar.
+14. Never duplicate the star tag.
+15. Do not introduce random accessories.
+16. Do not introduce clothing unless explicitly approved.
+17. Do not age Benny into an adult dog.
+18. Do not redesign Benny as another dog breed.
+19. Do not substantially alter Benny's body proportions.
+20. Do not silently modify any locked visual feature.
+21. Benny must remain visually compatible with Leo and Maya.
 
 ## Camera Reference
 

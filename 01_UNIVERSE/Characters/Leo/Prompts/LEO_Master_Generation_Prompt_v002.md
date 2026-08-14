@@ -117,10 +117,11 @@ Actions must remain physically believable for a preschool child.
 14. Preserve Leo's 4-5-year-old appearance.
 15. Do not make Leo look older.
 16. Do not change his body proportions.
-17. Do not introduce random accessories.
-18. Do not change his clothing colors.
-19. Do not change the star emblem.
-20. Leo must remain recognizable as the same character from every camera angle.
+17. Preserve Leo's established anatomy.
+18. Do not introduce random accessories.
+19. Do not change his clothing colors.
+20. Do not change the star emblem.
+21. Leo must remain recognizable as the same character from every camera angle.
 
 ## Camera Reference
 
@@ -135,11 +136,14 @@ Camera variation must never be used to justify a character-design change.
 The episode may change:
 
 - action
+- expression
 - environment
 - camera movement
 - lighting variation
 
 Leo may participate in physically believable preschool actions and interactions appropriate to the production scene.
+
+These changes must never alter Leo's canonical identity, anatomy, proportions, or locked visual features.
 
 Scene-specific variation must not silently change Leo's identity.
 

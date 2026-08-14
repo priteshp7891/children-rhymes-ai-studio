@@ -1,11 +1,69 @@
-# Sunny — Prompts
+# Sunny — Generation Prompts
+
+**Character ID:** CHAR-04
+**Reference ID:** SUNNY-REF-001
+**Version:** v001
+**Status:** CANONICAL / LOCKED
+
+## Purpose
 
 This folder contains the canonical generation prompts for Sunny.
 
-## Current Prompt
+The master generation prompt defines how the canonical character is maintained consistently across image and video generation.
 
-- `SUNNY_Master_Generation_Prompt_v001.md`
+## Current Master Prompt
 
-The current prompt must preserve the locked SUNNY-REF-001 character identity.
+$(System.Collections.Hashtable.MasterPrompt)
 
-Do not change Sunny's canonical visual identity without an explicit character-design revision.
+This is the current canonical generation specification for Sunny.
+
+## Prompt Rules
+
+- Identify Sunny explicitly.
+- Use $(System.Collections.Hashtable.ReferenceID) as the canonical character reference.
+- Preserve the locked character identity defined by the Character Bible.
+- Follow CHARACTER_GENERATION_STANDARD_v001.md.
+- Follow CHARACTER_PACKAGE_STANDARD_v001.md.
+- Allow scene-specific variation only where permitted by the master prompt.
+- Never silently redesign the character.
+- Never introduce unapproved character accessories or identity changes.
+
+## Reference Authority
+
+Reference priority is:
+
+1. Canonical Sunny reference images
+2. Locked Visual DNA
+3. Character personality and behavior
+4. Scene-specific action
+5. Scene-specific props
+6. Environment
+7. Camera
+8. Lighting
+
+Canonical reference assets remain in the References/ directory.
+
+## Character-Specific Rules
+
+- Sunny is a discovery companion and must remain child-friendly.
+- Use SUNNY-REF-001 as the exact character reference.
+- Never use another character as Sunny's visual reference.
+
+These rules supplement the standardized package structure and must not be interpreted as replacements for the Character Bible or master generation prompt.
+
+## Revision Policy
+
+The current master prompt is $(System.Collections.Hashtable.MasterPrompt).
+
+A meaningful canonical prompt revision requires:
+
+1. Explicit approval.
+2. A new version identifier.
+3. Preservation of the existing character identity unless an approved character-design revision is intended.
+4. Update of the active master prompt.
+5. Archive of the superseded version when required.
+6. Preservation of traceability.
+
+Never silently modify the canonical character design.
+
+This README follows CHARACTER_PACKAGE_STANDARD_v001.md.

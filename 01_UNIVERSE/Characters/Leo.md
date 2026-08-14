@@ -3,7 +3,7 @@
 **Character ID:** CHAR-01
 **Reference ID:** LEO-REF-001
 **Version:** v001
-**Status:** CANDIDATE CANONICAL
+**Status:** CANONICAL / LOCKED
 
 ## Role
 
@@ -23,7 +23,7 @@ Age appearance: 4–5 years old.
 
 ## Visual Bible
 
-**Status:** CANDIDATE CANONICAL
+**Status:** CANONICAL / LOCKED
 
 ### Locked Visual DNA
 

@@ -25,6 +25,7 @@ Canonical reference images are the primary visual source of truth.
 
 Canonical references:
 
+- References/MAYA-REF-001-Concept-04.png
 - References/MAYA-REF-001-FullBody.jpeg
 - References/MAYA-REF-001-Portrait.jpeg
 - References/MAYA-REF-001-Turnaround-8Angle.jpeg

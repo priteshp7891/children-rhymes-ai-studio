@@ -21,6 +21,15 @@ Design base:
 
 **Concept 2**
 
+Canonical reference images are the primary visual source of truth.
+
+Canonical references:
+
+- References/LEO-REF-001-Concept-02.png
+- References/LEO-REF-001-FullBody.jpeg
+- References/LEO-REF-001-Portrait.jpeg
+- References/LEO-REF-001-Turnaround-8Angle.jpeg
+
 The canonical Character Bible remains the authoritative character-specific document.
 
 ## Character Identity

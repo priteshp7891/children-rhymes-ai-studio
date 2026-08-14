@@ -1,17 +1,17 @@
-# Maya â€” Character Bible
+# Maya — Character Bible
 
-**Character ID:** CHAR-02  
-**Reference ID:** MAYA-REF-001  
-**Version:** v001  
+**Character ID:** CHAR-02
+**Reference ID:** MAYA-REF-001
+**Version:** v001
 **Status:** CANONICAL / LOCKED
 
 ## Role
 
 Best friend / intelligent creative problem-solver
 
-## Age Appearance
+## Age / Character Scale
 
-4â€“5 years old
+4–5 years old
 
 ## Personality
 
@@ -28,7 +28,7 @@ Best friend / intelligent creative problem-solver
 
 Maya naturally thinks before acting and enjoys discovering how things work. She helps her friends solve problems through creativity and simple, age-appropriate reasoning.
 
-Her intelligence should feel natural for a 4â€“5-year-old child, never like an adult speaking through a child.
+Her intelligence should feel natural for a 4–5-year-old child, never like an adult speaking through a child.
 
 ## Story Function
 
@@ -42,16 +42,16 @@ She is the group's thoughtful problem-solver and often turns confusing situation
 
 ### Locked Visual DNA
 
-- Age appearance: 4â€“5
+- Age appearance: 4–5
 - Skin: Warm medium brown
 - Eyes: Large warm brown
 - Face: Rounded preschool proportions
 - Hair: Dark brown
-- Hairstyle: Two rounded hair buns â€” LOCKED
+- Hairstyle: Two rounded hair buns — LOCKED
 - Front hair/bangs: LOCKED
-- Headband: Purple â€” LOCKED
+- Headband: Purple — LOCKED
 - Star hair clip: One small yellow five-point star
-- Star clip position: Maya's anatomical LEFT side â€” LOCKED
+- Star clip position: Maya's anatomical LEFT side — LOCKED
 - Top: Lavender
 - Top emblem: Warm yellow lightbulb
 - Skirt: Purple with subtle light lavender polka dots
@@ -70,7 +70,7 @@ She is the group's thoughtful problem-solver and often turns confusing situation
 7. Facial proportions must remain consistent.
 8. Skin tone must remain consistent.
 9. Eye color and general eye shape must remain consistent.
-10. Maya must retain her 4â€“5-year-old appearance.
+10. Maya must retain her 4–5-year-old appearance.
 11. Body proportions must remain consistent.
 12. The lavender top must remain lavender.
 13. The yellow lightbulb emblem must remain on the front of the top.
@@ -87,16 +87,16 @@ Maya has been validated using the eight-angle production reference:
 
 | Angle | View |
 |---:|---|
-| 0Â° | Front |
-| 45Â° | Front-left |
-| 90Â° | Left profile |
-| 135Â° | Back-left |
-| 180Â° | Back |
-| 225Â° | Back-right |
-| 270Â° | Right profile |
-| 315Â° | Front-right |
+| 0° | Front |
+| 45° | Front-left |
+| 90° | Left profile |
+| 135° | Back-left |
+| 180° | Back |
+| 225° | Back-right |
+| 270° | Right profile |
+| 315° | Front-right |
 
-The angle represents the **camera position around Maya**.
+The angle represents the camera position around Maya.
 
 Maya's anatomical left and right must never be interpreted as viewer-left and viewer-right.
 
@@ -116,7 +116,7 @@ Maya's identity may not.
 
 ## Signature Accessory
 
-Maya's purple idea/story notebook is a **scene-dependent prop**, not a permanent part of her physical character design.
+Maya's purple idea/story notebook is a scene-dependent prop, not a permanent part of her physical character design.
 
 It may be used when the story requires it.
 

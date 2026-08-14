@@ -1,16 +1,35 @@
-## Canonical Reference
+# Leo — Character Bible
 
-![[Leo_Character_Bible_v001.png]]
+**Character ID:** CHAR-01
+**Reference ID:** LEO-REF-001
+**Version:** v001
+**Status:** CANDIDATE CANONICAL
 
-**Reference ID:** LEO-REF-001  
-**Version:** v001  
+## Role
+
+[Role not yet documented in the current Character Bible.]
+
+## Age / Character Scale
+
+Age appearance: 4–5 years old.
+
+## Personality
+
+[Personality not yet documented in the current Character Bible.]
+
+## Story Function
+
+[Story function not yet documented in the current Character Bible.]
+
+## Visual Bible
+
 **Status:** CANDIDATE CANONICAL
 
 ### Locked Visual DNA
 
 - Design base: Concept 2
-- Age appearance: 4-5
-- Hair: Concept 2 hairstyle - LOCKED
+- Age appearance: 4–5
+- Hair: Concept 2 hairstyle — LOCKED
 - Hair color: Dark brown
 - Eyes: Warm brown
 - Skin: Warm medium brown
@@ -23,7 +42,7 @@
 - Body style: Rounded preschool 3D
 - Facial style: Friendly, expressive, approachable
 
-### Consistency Rules
+### Character Consistency Rules
 
 1. Leo must retain the Concept 2 hairstyle.
 2. The hairstyle must not be redesigned between scenes.
@@ -36,16 +55,41 @@
 9. Temporary costumes are allowed only when explicitly required by an episode.
 10. Any generated Leo that violates the locked visual DNA is a failed generation.
 
-### Reference Hierarchy
+## Canonical Camera Reference
+
+Leo must remain visually recognizable from front, 3/4, side and back views.
+
+A formal eight-angle camera reference is not yet documented in the current Character Bible.
+
+## Reference Hierarchy
+
+1. LEO-REF-001 primary visual reference
+2. Locked Visual DNA
+3. Scene-specific action
+4. Camera / environment
+
+## Signature Accessory
+
+Leo's blue-green wristband is a locked character element.
+
+It must remain on Leo's anatomical LEFT WRIST ONLY.
+
+## Voice
+
+**Status:** Not yet locked.
+
+Voice characteristics will be finalized separately from the visual character design.
+
+## Canonical References
+
+![[Leo_Character_Bible_v001.png]]
 
 LEO-REF-001 is the primary visual reference.
 
-When generating Leo:
+## Revision Policy
 
-Character reference image
-↓
-Locked Visual DNA
-↓
-Scene-specific action
-↓
-Camera / environment
+LEO-REF-001 is currently marked CANDIDATE CANONICAL.
+
+Any future change to Leo's locked visual DNA requires an explicit character-design revision and a new reference version.
+
+Do not silently modify the canonical design.

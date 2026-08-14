@@ -9,7 +9,7 @@
 
 Older friend / guide
 
-## Age Appearance
+## Age / Character Scale
 
 6–7 years old
 
@@ -83,7 +83,7 @@ Nora intentionally does NOT use Maya's lavender/purple palette.
 
 ### Clothing Identity
 
-Nora has **no emblem or symbol printed on her clothing**.
+Nora has no emblem or symbol printed on her clothing.
 
 Her visual identity comes from:
 
@@ -97,15 +97,8 @@ Her visual identity comes from:
 
 Do not add a star, lightbulb, compass, logo, badge, or other decorative emblem to Nora's clothing.
 
-### Signature Accessory
 
-Nora's tan crossbody art bag is part of her canonical character design.
-
-The bag should remain visually consistent.
-
-Art supplies such as pencils, crayons, or other drawing materials may appear when appropriate to the scene, but the exact contents of the bag are not permanently locked.
-
-## Character Consistency Rules
+### Character Consistency Rules
 
 1. Nora must remain the same physical character in every generation.
 2. Facial identity must remain consistent.
@@ -164,6 +157,20 @@ Scene-specific elements may change.
 
 Nora's identity may not.
 
+## Signature Accessory
+
+Nora's tan crossbody art bag is part of her canonical character design.
+
+The bag should remain visually consistent.
+
+Art supplies such as pencils, crayons, or other drawing materials may appear when appropriate to the scene, but the exact contents of the bag are not permanently locked.
+
+## Voice
+
+**Status:** Not yet locked.
+
+Voice characteristics will be finalized separately from the visual character design.
+
 ## Canonical References
 
 The following references are canonical:
@@ -196,9 +203,3 @@ Any future change to Nora's:
 requires an explicit character-design revision and a new reference version.
 
 Do not silently modify the canonical Nora design.
-
-## Voice
-
-**Status:** Not yet locked.
-
-Voice characteristics will be finalized separately from the visual character design.

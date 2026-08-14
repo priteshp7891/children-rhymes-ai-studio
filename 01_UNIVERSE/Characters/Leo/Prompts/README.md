@@ -13,14 +13,14 @@ The master generation prompt defines how the canonical character is maintained c
 
 ## Current Master Prompt
 
-$(System.Collections.Hashtable.MasterPrompt)
+`LEO_Master_Generation_Prompt_v002.md`
 
-This is the current canonical generation specification for Leo.
+This is the current canonical generation specification for Leo. Version v001 remains preserved in the same directory for traceability.
 
 ## Prompt Rules
 
 - Identify Leo explicitly.
-- Use $(System.Collections.Hashtable.ReferenceID) as the canonical character reference.
+- Use `LEO-REF-001` as the canonical character reference.
 - Preserve the locked character identity defined by the Character Bible.
 - Follow CHARACTER_GENERATION_STANDARD_v001.md.
 - Follow CHARACTER_PACKAGE_STANDARD_v001.md.
@@ -53,7 +53,7 @@ These rules supplement the standardized package structure and must not be interp
 
 ## Revision Policy
 
-The current master prompt is $(System.Collections.Hashtable.MasterPrompt).
+The current master prompt is `LEO_Master_Generation_Prompt_v002.md`.
 
 A meaningful canonical prompt revision requires:
 

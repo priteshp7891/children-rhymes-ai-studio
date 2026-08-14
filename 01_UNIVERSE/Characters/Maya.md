@@ -130,6 +130,7 @@ Voice characteristics will be finalized separately from the visual character des
 
 The following references are canonical:
 
+- `References/MAYA-REF-001-Concept-04.png`
 - `References/MAYA-REF-001-FullBody.jpeg`
 - `References/MAYA-REF-001-Portrait.jpeg`
 - `References/MAYA-REF-001-Turnaround-8Angle.jpeg`

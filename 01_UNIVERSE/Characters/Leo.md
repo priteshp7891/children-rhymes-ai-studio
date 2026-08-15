@@ -82,13 +82,18 @@ Voice characteristics will be finalized separately from the visual character des
 
 ## Canonical References
 
-![[Leo_Character_Bible_v001.png]]
+The following references are canonical:
+
+- References/LEO-REF-001-Concept-02.png
+- References/LEO-REF-001-FullBody.jpeg
+- References/LEO-REF-001-Portrait.jpeg
+- References/LEO-REF-001-Turnaround-8Angle.jpeg
 
 LEO-REF-001 is the primary visual reference.
 
 ## Revision Policy
 
-LEO-REF-001 is currently marked CANDIDATE CANONICAL.
+LEO-REF-001 is CANONICAL / LOCKED.
 
 Any future change to Leo's locked visual DNA requires an explicit character-design revision and a new reference version.
 

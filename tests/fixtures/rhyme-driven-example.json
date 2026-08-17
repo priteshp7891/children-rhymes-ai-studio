@@ -1,0 +1,21 @@
+{
+  "episode_id": "TEST-001",
+  "title": "Synthetic Future Rhyme",
+  "runtime_seconds": 43,
+  "scenes": [
+    {"scene_id": "SC-001", "duration_seconds": 5},
+    {"scene_id": "SC-002", "duration_seconds": 6},
+    {"scene_id": "SC-003", "duration_seconds": 4},
+    {"scene_id": "SC-004", "duration_seconds": 7},
+    {"scene_id": "SC-005", "duration_seconds": 5},
+    {"scene_id": "SC-006", "duration_seconds": 4},
+    {"scene_id": "SC-007", "duration_seconds": 5},
+    {"scene_id": "SC-008", "duration_seconds": 3},
+    {"scene_id": "SC-009", "duration_seconds": 4}
+  ],
+  "generation_shots": [
+    {"shot_id": "SC-001-A", "scene_id": "SC-001", "prompt": "Visualize the opening lyric beat with the canonical child character and readable staging.", "camera": "Wide child-eye-level establishing shot with a gentle push-in.", "assembly": "Use as the opening source clip; trim to the scene boundary."},
+    {"shot_id": "SC-004-A", "scene_id": "SC-004", "prompt": "Show the first visual beat with clear countable objects and canonical continuity.", "camera": "Medium tracking shot following the action.", "assembly": "Trim and join to SC-004-B on the lyric transition."},
+    {"shot_id": "SC-004-B", "scene_id": "SC-004", "prompt": "Continue the same scene with a controlled camera change and preserved character continuity.", "camera": "Closer three-quarter framing, matching screen direction.", "assembly": "Complete the parent scene after SC-004-A."}
+  ]
+}

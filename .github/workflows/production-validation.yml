@@ -1,0 +1,15 @@
+name: Production Validation
+
+on:
+  push:
+    branches: [main, 'automation/**']
+  pull_request:
+
+jobs:
+  validate-production:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Validate EP-001 and generalized planning contract
+        run: python tools/production_pipeline.py --episode EP-001 --fixture tests/fixtures/rhyme-driven-example.json

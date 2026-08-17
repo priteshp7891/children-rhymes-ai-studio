@@ -1,0 +1,9 @@
+{
+  "episode_id": "EP-001",
+  "title": "Count With Me!",
+  "status": "LOCKED",
+  "runtime_seconds": 77,
+  "scene_count": 14,
+  "lock_scope": ["runtime_seconds", "scene_count", "scene_order"],
+  "note": "Episode-specific lock. These values are not global production defaults."
+}

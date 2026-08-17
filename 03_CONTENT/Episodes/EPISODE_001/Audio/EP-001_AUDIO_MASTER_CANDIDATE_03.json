@@ -1,0 +1,16 @@
+{
+  "episode_id": "EP-001",
+  "title": "Count With Me!",
+  "artifact_id": "EP-001-AUDIO-CANDIDATE-03",
+  "status": "USER_SELECTED_CANDIDATE",
+  "source_file": "EP001_Count_With_Me_PRO_Candidate_03.wav",
+  "duration_seconds": 128.44,
+  "sample_rate_hz": 48000,
+  "channels": 2,
+  "peak_dbfs": -4.41,
+  "generation_platform": "Suno",
+  "generation_plan": "Pro account; custom lyrics; female vocal; Weirdness 20%; Style Influence 80%; Auto duration",
+  "timing_authority": false,
+  "approval_status": "PENDING_AUDIO_QC",
+  "notes": "User selected Candidate 03 as the preferred version. Final audio-master status remains pending lyric fidelity, vocal quality, musical quality, and ending QC. Do not derive scene timing until audio QC is approved. Runtime is measured from the uploaded WAV and is not a target."
+}

@@ -1,9 +1,22 @@
 {
   "episode_id": "EP-001",
   "title": "Count With Me!",
-  "status": "LOCKED",
-  "runtime_seconds": 77,
+  "status": "AUDIO_MASTER_LOCKED",
+  "runtime_seconds": 128.44,
+  "runtime_lock_source": "EP-001_AUDIO_MASTER_CANDIDATE_03",
   "scene_count": 14,
+  "scene_count_status": "PLANNING_LOCK",
   "lock_scope": ["runtime_seconds", "scene_count", "scene_order"],
-  "note": "Episode-specific lock. These values are not global production defaults."
+  "timing_authority": "APPROVED_AUDIO_MASTER",
+  "audio_master": {
+    "artifact_id": "EP-001-AUDIO-CANDIDATE-03",
+    "source_file": "EP001_Count_With_Me_PRO_Candidate_03.wav",
+    "duration_seconds": 128.44,
+    "sample_rate_hz": 48000,
+    "channels": 2,
+    "user_approval": "APPROVED"
+  },
+  "previous_planning_runtime_seconds": 77,
+  "previous_runtime_status": "SUPERSEDED",
+  "note": "User listened to Candidate 03 multiple times and approved it as the EP-001 audio master. The former 77-second planning value is superseded. Visual timing must be derived from the approved 128.44-second audio timeline. The 14-scene structure remains an episode-specific planning lock and must not become a global default."
 }
